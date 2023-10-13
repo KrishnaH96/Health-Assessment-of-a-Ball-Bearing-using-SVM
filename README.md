@@ -1,1 +1,1 @@
-# Health-Assessment-of-a-Ball-Bearing-using-SVM
+# Health-Assessment-of-a-shaft-using-SVM
